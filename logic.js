@@ -12,6 +12,7 @@ function generateJWT(payload, secret, options = {}) {
       .replace(/\+/g, '-')
       .replace(/\//g, '_')
       .replace(/=+$/, '');
+       "teste"
   }
 
   // Encode header and payload
@@ -44,5 +45,6 @@ function generateJWT(payload, secret, options = {}) {
 
 // Example usage:
 // generateJWT({ sub: '123', name: 'John' }, 'supersecret').then(token => console.log(token));
+
 
 generateJWT({ sub: '123', name: 'John' }, 'supersecret').then(token => console.log(token));
