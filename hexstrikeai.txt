@@ -11,7 +11,7 @@
   }
 }fffffffffffffff
 ffff
-{
+{ffff
   "burp": {
     "command": "java",
     "args": [
@@ -61,6 +61,7 @@ wsl bash -c "cd /mnt/c/Users/rodrigo3301/hexstrike-ai && source venv/bin/activat
 •  discover_attack_chains / create_attack_chain_ai: propõem cadeias de ataque multiestágio com probabilidade e pré‑requisitos.
 
 •  optimize_tool_parameters_ai: ajusta parâmetros ideais para as ferramentas escolhidas.
+
 
 
 
