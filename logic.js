@@ -3,7 +3,7 @@ function generateJWT(payload, secret, options = {}) {
   const header = {
     alg: 'HS256',
     typ: 'JWT',
-    ...options.header
+    ...options.teste
   };
 
   // URL-safe base64 encoding
@@ -44,5 +44,6 @@ function generateJWT(payload, secret, options = {}) {
 
 // Example usage:
 // generateJWT({ sub: '123', name: 'John' }, 'supersecret').then(token => console.log(token));
+
 
 generateJWT({ sub: '123', name: 'John' }, 'supersecret').then(token => console.log(token));
