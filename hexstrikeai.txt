@@ -13,7 +13,7 @@
 ffff
 {ffffffff
   "burpsuiteee": {
-    "commCXCXCanFDFDFd": "javafff",
+    "commCXCXCanFDFDFd": "javaffffff",
     "args": [
       "-jar",
       "C:\\Users\\rodrigo3301\\OneDrive\\Desktop\\mcp-proxy.jar"
@@ -59,6 +59,7 @@ wsl bash -c "cd /mnt/c/Users/rodrigo3301/hexstrike-ai && source venv/bin/activat
 •  analyze_target_intelligence: cria um perfil do alvo e entrega recomendações táticas.
 •  ai_vulnerability_assessment: prioriza áreas de teste e sugere próximos passos por impacto.
 •  discover_attack_chains / create_attack_chain_ai: propõem cadeias de ataque multiestágio com probabilidade e pré‑requisitos.
+
 
 
 
