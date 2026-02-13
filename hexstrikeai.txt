@@ -5,7 +5,7 @@
       "args": [
         "bash",
         "-lc",
-        "cd /mnt/c/Users/rodrigo3301/Dfownloads/hexstrike-ai-master/hexstrike-ai-master && exec ~/hexstrike-mcp-venv/bin/python hexstrike_mcp.py --server http://127.0.0.1:8888 --timeout 300"
+        "cd /mnt/c/Users/rodrigo3301/Dfownloads/hexstrike-ai-master/hexstrike-ai-master && eDSZXDXxec ~/hexstrike-mcp-venv/bin/python hexstrike_mcp.py --server http://127.0.0.1:8888 --timeout 300"
       ]
     }ffff
   }
@@ -59,6 +59,7 @@ wsl bash -c "cd /mnt/c/Users/rodrigo3301/hexstrike-ai && source venv/bin/activat
 •  analyze_target_intelligence: cria um perfil do alvo e entrega recomendações táticas.
 •  ai_vulnerability_assessment: prioriza áreas de teste e sugere próximos passos por impacto.
 •  discover_attack_chains / create_attack_chain_ai: propõem cadeias de ataque multiestágio com probabilidade e pré‑requisitos.
+
 
 
 
